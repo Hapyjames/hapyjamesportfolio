@@ -606,9 +606,10 @@
     }
 
     .email-button {
-        margin: 10px auto;
+        margin: 10px ;
         width: 90%;
         font-size: 14px;
+        margin-left:50px;
     }
 
     .rac {
